@@ -1,1 +1,1 @@
-# Algorithm
+# Solutions
